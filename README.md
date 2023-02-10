@@ -1,4 +1,4 @@
-# Python Framework 
+# Python Framework
 
 <div align="center">
 
@@ -25,24 +25,27 @@ Make sure you have a properly Python & Poetry environment with version ~3.10.
 ### Setup
 
 1. Clone the repo
+
    ```sh
    git clone git@github.com:victormartinez/pythonframework.git
    ```
 
 2. Install the dependencies
-    ```sh
-    cd pythonframework/
-    poetry install
-    ```
+
+   ```sh
+   cd pythonframework/
+   poetry install
+   ```
 
 3. Activate virtual environment
-    ```sh
-    poetry shell
-    ```
+   ```sh
+   poetry shell
+   ```
 
 ## Usage
 
-### Run 
+### Run
+
 ```sh
 make run  # Available at http://127.0.0.1:8000
 ```
